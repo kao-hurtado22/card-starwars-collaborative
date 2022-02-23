@@ -1,0 +1,15 @@
+/* .container-fluid-characteres{
+    height: 28rem;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+ 
+    background-color: rgb(84, 77, 77);
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+.card{
+   width: 250px; 
+   display: inline-block;
+} */
